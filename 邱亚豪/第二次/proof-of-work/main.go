@@ -1,7 +1,7 @@
 package main
 
 import (
-	"publicChain/part8-proof-of-work/BLC"
+	"1801PublicChain/PublicChain1801/邱亚豪/第二次/proof-of-work/BLC"
 	"fmt"
 )
 
